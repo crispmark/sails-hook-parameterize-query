@@ -20,5 +20,19 @@
   "devDependencies": {
     "mocha": "^3.2.0",
     "sails": "^0.12.11"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "sails": "^0.12.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crispmark/sails-hook-parameterized-query.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crispmark/sails-hook-parameterized-query/issues"
+  },
+  "homepage": "https://github.com/crispmark/sails-hook-parameterized-query#readme"
 }
